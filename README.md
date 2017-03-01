@@ -1,7 +1,13 @@
 # vue2-webpack-realtimedatabaseCRUD with firebase
 
 > A Vue.js project
-
+## Config
+At -> src/App.vue     [firebase console](https://console.firebase.google.com/)
+``` bash
+let config = {
+    //firebase console
+}
+```
 ## Build Setup
 
 ``` bash
