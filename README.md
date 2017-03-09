@@ -1,6 +1,8 @@
 # vue2-webpack-realtimedatabaseCRUD with firebase
 
 > A Vue.js project
+
+![alt tag](http://i.imgur.com/nnEULeT.png)
 ## Config
 At -> src/App.vue     [firebase console](https://console.firebase.google.com/)
 ``` bash
