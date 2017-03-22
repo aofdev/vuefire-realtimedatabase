@@ -1,4 +1,4 @@
-# vue2-webpack-realtimedatabaseCRUD with firebase
+# vue2-realtimedatabaseCRUD with firebase
 
 > A Vue.js project
 
