@@ -1,6 +1,6 @@
 # vue2-realtimedatabaseCRUD with firebase
 
-> A Vue.js project
+> A vue2-CRUD with firebase project
 
 ![alt tag](http://i.imgur.com/nnEULeT.png)
 
