@@ -1,7 +1,7 @@
 <template>
   <div id="app" class="container">
     <div class="page-header">
-        <h1>Vue.js 2 & Realtime Database with Firebase</h1>
+        <h1>Vue2 & Realtime Database with Firebase</h1>
     </div>
     <div class="panel panel-default">
       <div class="panel-heading">
@@ -64,7 +64,7 @@
 
 </template>
 <script>
-import Hello from './components/Hello'
+
 
 import Firebase from 'firebase'
 
